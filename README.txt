@@ -1,4 +1,4 @@
-#final project
+cs421 final: 玫瑰小舖
 
 main function:
 as a shopping website, the main goal is to look at a product, select the desired size, add it to cart, and check out.
